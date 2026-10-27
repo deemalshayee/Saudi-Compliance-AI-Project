@@ -1,0 +1,9 @@
+sentence-transformers
+transformers
+accelerate
+faiss-cpu
+numpy
+requests
+jupyter
+ipywidgets
+huggingface-hub
